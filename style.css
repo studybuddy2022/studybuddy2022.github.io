@@ -1,0 +1,12 @@
+body{
+	width: 100vw;
+	height: 90vh;
+}
+
+div {
+	width: 48%;
+	padding-top: 8%;
+	text-align: center;
+	float: left;
+	display: inline-block;
+}
