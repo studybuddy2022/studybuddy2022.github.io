@@ -1,4 +1,6 @@
 body{
+	background-image: url(spill.gif);
+	background-size: cover;
 	width: 100vw;
 	height: 90vh;
 }
@@ -8,6 +10,6 @@ div {
 	padding-top: 8%;
 	text-align: center;
 	align-items: center;
-	float: left;
+	float: right;
 	display: inline-block;
 }
