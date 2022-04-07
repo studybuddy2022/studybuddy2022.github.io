@@ -1,15 +1,106 @@
-body{
+body {
 	background-image: url(spill.gif);
 	background-size: cover;
+	background-color: #241918;
 	width: 100vw;
 	height: 90vh;
 }
 
-div {
+/*div {
 	width: 48%;
 	padding-top: 8%;
 	text-align: center;
 	align-items: center;
 	float: right;
 	display: inline-block;
+}*/
+
+/*h2 {
+	position: absolute;
+	width: 20vw;
+	height: 30vh;
+	left: 75vw;
+	top: 33vh;
+	color: #FFFFFF;
+	font-family: 'Crimson Pro';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 64px;
+	line-height: 71px;
+	margin: 0;
+}*/
+
+h1 {
+	position: absolute;
+	width: 20vw;
+	height: 30vh;
+	left: 75vw;
+	top: 33vh;
+	color: #FFFFFF;
+	font-family: 'Crimson Pro';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 64px;
+	line-height: 71px;
+	margin: 0;
 }
+
+/*.container1 {
+	position: absolute;
+	width: 20vw;
+	left: 75vw;
+	top: 33vh;
+  	display: inline-block;
+}*/
+
+.typed-out1{
+  	overflow: hidden;
+  	color: #FFFFFF;
+  	font-family: 'Crimson Pro';
+	font-style: normal;
+	font-weight: 400;
+  	border-right: .15em solid white;
+  	white-space: nowrap;
+  	font-size: 4rem;
+  	width: 0;
+    animation: 
+      typing 1s steps(20, end) forwards;
+}
+
+.typed-out2{
+  	overflow: hidden;
+  	color: #FFFFFF;
+  	font-family: 'Crimson Pro';
+	font-style: normal;
+	font-weight: 400;
+  	border-right: .15em solid white;
+  	white-space: nowrap;
+  	font-size: 4rem;
+  	width: 0;
+    animation: 
+      typing 1s steps(20, end) forwards;
+    animation-delay: 1.1s;
+}
+
+.typed-out3{
+  	overflow: hidden;
+  	color: #FFFFFF;
+  	font-family: 'Crimson Pro';
+	font-style: normal;
+	font-weight: 400;
+  	border-right: .15em solid white;
+  	white-space: nowrap;
+  	font-size: 4rem;
+  	width: 0;
+    animation: 
+      typing 1s steps(20, end) forwards;
+    animation-delay: 2.2s;
+}
+
+@keyframes typing {
+  	from { width: 0 }
+  	to { width: 100% }
+}
+
+
+
