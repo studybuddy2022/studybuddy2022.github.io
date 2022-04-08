@@ -32,15 +32,15 @@ body {
 
 h1 {
 	position: absolute;
-	width: 20vw;
+	width: 18vw;
 	height: 30vh;
 	left: 75vw;
-	top: 33vh;
+	top: 40vh;
 	color: #FFFFFF;
 	font-family: 'Crimson Pro';
 	font-style: normal;
 	font-weight: 400;
-	font-size: 64px;
+	font-size: 4em;
 	line-height: 71px;
 	margin: 0;
 }
@@ -57,11 +57,11 @@ h1 {
   	overflow: hidden;
   	color: #FFFFFF;
   	font-family: 'Crimson Pro';
-	font-style: normal;
-	font-weight: 400;
+		font-style: normal;
+		font-weight: 400;
   	border-right: .15em solid white;
   	white-space: nowrap;
-  	font-size: 4rem;
+  	font-size: 1em;
   	width: 0;
     animation: 
       typing 1s steps(20, end) forwards;
@@ -71,11 +71,11 @@ h1 {
   	overflow: hidden;
   	color: #FFFFFF;
   	font-family: 'Crimson Pro';
-	font-style: normal;
-	font-weight: 400;
+		font-style: normal;
+		font-weight: 400;
   	border-right: .15em solid white;
   	white-space: nowrap;
-  	font-size: 4rem;
+  	font-size: 1em;
   	width: 0;
     animation: 
       typing 1s steps(20, end) forwards;
@@ -86,11 +86,11 @@ h1 {
   	overflow: hidden;
   	color: #FFFFFF;
   	font-family: 'Crimson Pro';
-	font-style: normal;
-	font-weight: 400;
+		font-style: normal;
+		font-weight: 400;
   	border-right: .15em solid white;
   	white-space: nowrap;
-  	font-size: 4rem;
+  	font-size: 1em;
   	width: 0;
     animation: 
       typing 1s steps(20, end) forwards;
@@ -101,6 +101,3 @@ h1 {
   	from { width: 0 }
   	to { width: 100% }
 }
-
-
-
