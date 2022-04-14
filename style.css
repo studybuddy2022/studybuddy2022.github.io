@@ -1,6 +1,6 @@
 body {
 	background-image: url(spill.gif);
-	background-size: auto;
+	background-size: 100% 100%;
 	background-color: #241918;
 	width: 100vw;
 	height: 100vh;
